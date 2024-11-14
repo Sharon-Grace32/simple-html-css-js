@@ -1,0 +1,143 @@
+button{
+    border: none;
+}
+.amazon{
+
+    color: rgb(0, 113, 133);
+}
+.shoes{
+    font-weight: bold;
+    font-size: 24px;
+}
+.price{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+.cart{
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    background-color: rgb(255, 216, 20
+    );
+}
+.buy{
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 10px;
+    background-color: rgb(255, 164, 28);
+}
+.subscribe{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    width: 120px;
+    height: 50px;
+    border-radius: 3px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.subscribe:hover{
+    opacity: 0.8;
+}
+.subscribe:active{
+    opacity: 0.5;
+}
+.join{
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-style: solid;
+    border-color: rgb(41, 118, 211);
+    width: 80px;
+    height: 50px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 1s,
+    color 1s;
+}
+.join:hover{
+    background-color: blue;
+    color: white;
+}
+.join:active{
+    opacity: 0.7;
+}
+.tweet{
+    background-color: rgb(2, 158, 225);
+    color: white;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.tweet:hover{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.6);
+
+}
+.back{
+    margin-top: 20px;
+
+}
+.numbers{
+    display: inline-block;
+}
+.next{
+    margin-bottom: 20px;
+}
+.stretch{
+    background-color: green;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.stretch:hover{
+    cursor: pointer;
+}
+.shadow{
+    background-color: green;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.shadow:hover{
+    cursor: pointer;
+}
+.shadow:active{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.one{
+    background-color: green;
+    padding: 10px;
+    margin-right: 5px;
+    color: #ffffff;
+    font-size: 16px;
+}
+.one:hover{
+    cursor: pointer;
+}
+.two{
+    background-color: green;
+    padding: 10px;
+    color: #ffffff;
+    font-size: 16px;
+}
+.two:hover{
+    cursor: pointer;
+}
+.three{
+    background-color: green;
+    padding: 10px;
+    margin-left: 5px;
+    color: #ffffff;
+    font-size: 16px;
+}
+.three:hover{
+    cursor: pointer;
+}
